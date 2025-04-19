@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodeBlitz</string>
+    <string name="btn_open_camera">Open Camera</string>
+    <string name="btn_close">Close</string>
+
+    <string name="lbl_scan_camera">Start to Scan</string>
+</resources>
